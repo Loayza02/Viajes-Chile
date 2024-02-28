@@ -1,0 +1,30 @@
+
+
+
+.ft {
+    background-color: #0dcaf0;
+    padding: 20px;
+    padding-left: 600px;
+    margin: 0;
+    display: flex;
+}
+
+i {
+    font-size: 33px;
+    background-color: #0dcaf0;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.mg {
+    margin-inline: 30px;
+}
+
+.fly {
+    width: 35px;
+    margin-left: 300px;
+}
