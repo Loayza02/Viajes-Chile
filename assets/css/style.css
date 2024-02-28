@@ -1,4 +1,6 @@
-
+body {
+    font-family: "Raleway", sans-serif;
+}
 
 
 .ft {
@@ -21,7 +23,7 @@ h1 {
 }
 
 .mg {
-    margin-inline: 30px;
+    margin-inline: 12px;
 }
 
 .fly {
